@@ -1,0 +1,20 @@
+[
+    {
+        "firstName": "Sirojiddin",
+        "lastName": "Nurmanov",
+        "username": "Sirojiddin",
+        "hash": "$2a$10$4HoBQMbowcxfzWzD5Bx0S.NDyYCjTj5EaFyqz4UkPWJ.uh3lygO.e",
+        "id": 1,
+        "dateCreated": "2022-07-07T10:37:03.310Z",
+        "dateUpdated": "2022-07-07T10:37:03.310Z"
+    },
+    {
+        "firstName": "Sirojiddin",
+        "lastName": "Nurmanov",
+        "username": "Sirojiddin1",
+        "hash": "$2a$10$5N/AqdiTL93jUd1al7SJEOWDmsfNtdVMmSI.J75viAN2jhWl.BRv.",
+        "id": 3,
+        "dateCreated": "2022-07-07T11:43:16.996Z",
+        "dateUpdated": "2022-07-07T11:43:16.996Z"
+    }
+]
